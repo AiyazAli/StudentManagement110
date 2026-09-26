@@ -1,1 +1,1 @@
-# StudentManagement110
+this is student management project
